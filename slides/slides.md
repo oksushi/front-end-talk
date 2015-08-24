@@ -4,7 +4,7 @@
 
 ## Who am I?
 
-* Founder of The Working Party
+* Developer at The Working Party
 * Long–time Westpac collaborator
 * User advocate!
 
